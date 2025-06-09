@@ -37,19 +37,17 @@ https://github.com/user-attachments/assets/1ef75c6d-0ee2-414c-952d-5f909c507a9f
 
 
 🧠 Example Questions to Ask
-What are early signs of depression?
 
-How can I manage anxiety without medication?
-
-What are coping mechanisms for stress?
-
-What is an impact of physical health on mental health?
+- What are early signs of depression?
+- How can I manage anxiety without medication?
+- What are coping mechanisms for stress?
+- What is an impact of physical health on mental health?
 
 
 📌 Notes
-This app is intended for educational purposes only.
 
-It’s not a substitute for professional mental health care.
+- This app is intended for educational purposes only.
+- It’s not a substitute for professional mental health care.
 
 
 📬 Contact
